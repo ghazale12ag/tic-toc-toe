@@ -1,0 +1,25 @@
+body {
+    
+    margin: 5px;
+    background-color: #e6caec;
+  }
+  .square {
+    font-size: 33px;
+    border: 1px solid #e9cef5;
+    border-radius: 5px;
+    font-weight: bold;
+    height: 45px;
+    margin-right: -1px;
+    margin-top: -1px;
+    text-align: center;
+    width: 40px;
+  }
+
+  .mytable {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+  
